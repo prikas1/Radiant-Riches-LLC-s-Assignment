@@ -1,0 +1,159 @@
+
+
+.App{
+  margin: 0px;
+  padding: 0px;
+  position: relative;
+
+ 
+}
+
+
+
+
+// this a is for top
+  a{
+    margin-left: 79px;
+    color: #D1D6DA !important;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    font-family: Inter;
+}
+
+ a{
+       
+        text-decoration: none;
+
+        &:hover{
+            text-decoration:2px solid #1B88F4 underline;
+
+        }
+     }
+
+input {
+  background: url("./search-img.png");
+  background-repeat: no-repeat;
+  background-position: left center;
+  border: 1px solid #E1E4E6;
+ 
+}
+
+
+
+
+
+hr{
+  margin: 0px;
+  color:#E1E4E6;
+
+}
+
+@mixin icon-props(){
+  background-repeat: no-repeat !important;
+  width: 20px;
+  height: 20px;
+  background-size: cover;
+}
+
+.icon{
+  background: url("./tick.png") !important;
+  @include icon-props;
+ 
+}
+
+
+.icon-i{
+  background: url("./icon-i.png") !important;
+   @include icon-props;
+}
+
+.icon-dropdown{
+  background: url("./dropdown.png") !important;
+  @include icon-props;
+}
+
+
+
+.icon-vector{
+  background: url("./vector.png") !important;
+   @include icon-props;
+   margin-top:5px !important;
+}
+
+
+.iconee{
+   background: url("./blue-dropdown.png") !important;
+     @include icon-props;
+   margin-top:5px !important;
+}
+
+.i-icon{
+  background: url("./i-img.png") !important;
+   @include icon-props;
+   margin-left: 90px;
+     height: 10px;
+}
+
+.cup-icon{
+  background: url("./cup.png") !important;
+   @include icon-props;
+     margin:3px 5px 0px 0px !important;
+}
+
+.diamond-icon{
+  background: url("./diamond.png") !important;
+   @include icon-props;
+     margin:3px 5px 0px 0px !important;
+}
+
+.icon-tick{
+  background: url("./card4-tick.png") !important;
+   @include icon-props;
+ 
+}
+
+.footer-icon-dropdown{
+  background: url("./footer-dropdown.png") !important;
+  @include icon-props;
+  margin-top: 15px!important;
+  
+  }
+
+.ul-third{
+  li{
+    a{
+     margin-right: 50px;
+     padding: 5px;
+    
+     border-radius: 12px;
+     
+     &:hover{
+       border: 2px solid #1B88F4 ;
+    }
+
+    }
+  }
+}
+
+.nav-sec, .nav-third, .nav-fourth{
+  background-color: #FBFCFD;
+ 
+}
+
+
+
+
+ @media only screen and (max-width: 991px) {
+  .nav2-hr {
+   display: none !important;
+  }
+
+  .nav-third{
+    margin: 0px 0px !important;
+  }
+}
+
+.navbar-toggler{
+  background-color: white !important;
+}

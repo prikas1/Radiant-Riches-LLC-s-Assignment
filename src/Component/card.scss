@@ -1,0 +1,60 @@
+.card{
+
+    border-radius: 12px;
+    background-color: #FFFFFF;
+    margin-top: 40px;
+    padding: 0px 12px;
+    width: 100%;
+    border: none;
+
+    a{
+     font: Inter;
+     display: inline-block !important;
+     color: #1B88F4 !important;
+     size: 16px;
+     line-height: 24px;
+     font-weight: 400;
+     text-decoration: none;
+
+    &:hover{
+        text-decoration: underline 2px solid;
+    }
+}
+ 
+.best-choice{
+     position: absolute;
+     width:150px ;
+     height:40px ;
+     z-index: 1;
+     top: -15px;
+     left:-10px;
+     border-radius:0px 12px 12px 0px ;
+     background-color: #FF7724;
+     display: flex;
+     color: white;
+}
+
+.card-num{
+    color: red;
+    z-index: 1;
+}
+
+.headingline{
+    font: Inter;
+    font-size: 16px;
+    line-height: 24px;
+    font-weight: 700;
+     color: #4B5665;
+}
+
+}
+
+.p-link{
+    background-color: #f2f4f7;
+      margin: 10px 2px;
+      padding: 3px 10px;
+      border-radius: 8px;
+      width: 80px;
+}
+      
+

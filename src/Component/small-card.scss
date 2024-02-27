@@ -1,0 +1,47 @@
+.sm-card1 {
+  padding: 20px !important;
+  border-radius: 12px;
+  background-color: #ffffff;
+  margin: 10px 0px !important;
+
+  img {
+    margin: 50px 0px;
+  }
+
+  p {
+    &:hover {
+      text-decoration: 2px solid #1b88f4 underline;
+    }
+  }
+
+  .p-div1 {
+    p {
+      background-color: #f2f4f7;
+      margin: 10px 2px;
+      padding: 3px 10px;
+      border-radius: 8px;
+    }
+  }
+
+  button {
+    width: 260px;
+    border-radius: 12px;
+    height: 40px;
+    margin-top: 0px;
+  }
+
+  .p-div2 {
+    p {
+      padding: 0px 5px;
+      color: black;
+      margin-top: 10px;
+    }
+    p:first-child {
+      font-size: 20px;
+      margin-top: 0px;
+    }
+    p:nth-child(3) {
+      color: red;
+    }
+  }
+}

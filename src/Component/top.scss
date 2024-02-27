@@ -1,0 +1,14 @@
+.top-div {
+  background-color: #212731;
+  padding: 0px 184px;
+
+  button {
+    margin: 0px 10px;
+  }
+}
+
+@media only screen and (max-width: 1050px) {
+  .top-div {
+    padding: 0px 20px !important;
+  }
+}

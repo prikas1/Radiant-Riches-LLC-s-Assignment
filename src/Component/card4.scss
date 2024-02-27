@@ -1,0 +1,50 @@
+
+.div2{
+    ul.card4-ul{
+      
+          background-color: #FFF4ED;
+          list-style-type: none;
+          padding: 5px;
+          border-radius: 12px;
+          margin-left: 20px;
+     
+     a{
+        color: #4B5665 ;
+        text-decoration: none;
+
+        &:hover{
+            text-decoration: underline;
+        }
+     }
+
+    
+
+    
+
+    }
+}
+ 
+ ul{
+    li{
+     margin-bottom: 5px !important;
+
+     .num-a{
+    background-color: #FFFFFF;
+    padding: 5px !important;
+    margin-right: 5px !important;
+    border-radius: 4px;
+    width: 40px;
+    height: 28px;
+    color: #1B88F4 !important;
+
+ }
+    }
+ }
+   
+   .secggy{
+    background-color: none !important;
+   }
+
+.card4-ul2{
+    padding: 0px;
+}

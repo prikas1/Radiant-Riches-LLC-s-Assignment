@@ -1,0 +1,30 @@
+
+
+  
+.footer{
+  background-color: black;
+  padding:30px 184px;
+  
+
+  ul{
+    padding: 10px;
+    li{
+      a{
+        margin-left: 0px;
+        color: #B6BDC4 !important;
+       
+      }
+   .footer-a-first{
+      color: white !important;
+      font-size: 20px;
+  }
+
+    }
+  }
+}
+
+@media only screen and (max-width: 1050px){
+.footer {
+    padding: 0px 5px;
+}
+}
