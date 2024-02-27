@@ -41,9 +41,9 @@ function Card4() {
           <div className="text-center">
             <div className="rating-div">
               <span class="nav-link i-icon" href="#"> </span>
-              <h3>9.8</h3>
-              <p style={{ margin: "5px" }}>Exceptional</p>
-              <img src={'/4star.png'} alt="Star Rating"></img>
+              <h3>9.1</h3>
+              <p style={{ margin: "5px" }}>Very Good</p>
+              <img src={'/Radiant-Riches-LLC-s-Assignment/4star.png'} alt="Star Rating"></img>
             </div>
             <button type="button" class="btn btn-primary" style={{ width: "210px", borderRadius: "12px", height: "40px", marginTop: '50px' }}>View</button>
           </div>
