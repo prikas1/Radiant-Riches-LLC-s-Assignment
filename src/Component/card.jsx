@@ -13,7 +13,7 @@ function Card(){
     <div class="col div1 d-flex justify-content-center align-items-top" >
     <div className="text-center">
       
-     <img className="desktop"  src={'/desktop.png'} style={{marginTop:"80px"}} />
+     <img className="desktop"  src={'/Radiant-Riches-LLC-s-Assignment/desktop.png'} style={{marginTop:"80px"}} />
      <p style={{margin:"22px 0px 42px 0px" }} >Builder 1</p>
      </div>
     </div>
@@ -33,7 +33,7 @@ function Card(){
       <span class="nav-link i-icon " href="#"> </span> 
       <h3>9.8</h3>
       <p style={{margin:"5px"}}>Exceptional</p>
-      <img src={'/star-rating.png'}></img>
+      <img src={'/Radiant-Riches-LLC-s-Assignment/star-rating.png'}></img>
       </div>
        <button type="button" class="btn btn-primary" style={{width:"210px", borderRadius:"12px", height: "40px", marginTop:'50px'}}>View</button>
   </div>

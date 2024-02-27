@@ -7,7 +7,7 @@ function Card4() {
       <div class="row">
         <div class="col div1 d-flex justify-content-center align-items-top">
           <div className="text-center">
-            <img className="desktop" src={'/desktop.png'} style={{ marginTop: "80px" }} />
+            <img className="desktop" src={'/Radiant-Riches-LLC-s-Assignment/desktop.png'} style={{ marginTop: "80px" }} />
             <p style={{ margin: "22px 0px 42px 0px" }}>Builder 1</p>
           </div>
         </div>

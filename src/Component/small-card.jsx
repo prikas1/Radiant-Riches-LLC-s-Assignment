@@ -8,7 +8,7 @@ function SmCard1(){
     <div className="sm-card1 d-flex justify-content-center ">
     <div>
     <div className="d-flex justify-content-center ">
-     <img className="desktop " src={'/desktop.png'} />
+     <img className="desktop " src={'/Radiant-Riches-LLC-s-Assignment/desktop.png'} />
      </div>
      <div className="d-flex p-div1">
       <p className="p-link">20% Off</p>
