@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Radiant-Riches-LLC-s-Assignment/static/css/main.abb15f33.css",
-    "main.js": "/Radiant-Riches-LLC-s-Assignment/static/js/main.aebc40cb.js",
+    "main.css": "/Radiant-Riches-LLC-s-Assignment/static/css/main.0b702a08.css",
+    "main.js": "/Radiant-Riches-LLC-s-Assignment/static/js/main.1e7ee7d8.js",
     "index.html": "/Radiant-Riches-LLC-s-Assignment/index.html",
-    "main.abb15f33.css.map": "/Radiant-Riches-LLC-s-Assignment/static/css/main.abb15f33.css.map",
-    "main.aebc40cb.js.map": "/Radiant-Riches-LLC-s-Assignment/static/js/main.aebc40cb.js.map"
+    "main.0b702a08.css.map": "/Radiant-Riches-LLC-s-Assignment/static/css/main.0b702a08.css.map",
+    "main.1e7ee7d8.js.map": "/Radiant-Riches-LLC-s-Assignment/static/js/main.1e7ee7d8.js.map"
   },
   "entrypoints": [
-    "static/css/main.abb15f33.css",
-    "static/js/main.aebc40cb.js"
+    "static/css/main.0b702a08.css",
+    "static/js/main.1e7ee7d8.js"
   ]
 }
