@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Radiant-Riches-LLC-s-Assignment/static/css/main.abb15f33.css",
+    "main.js": "/Radiant-Riches-LLC-s-Assignment/static/js/main.aebc40cb.js",
+    "index.html": "/Radiant-Riches-LLC-s-Assignment/index.html",
+    "main.abb15f33.css.map": "/Radiant-Riches-LLC-s-Assignment/static/css/main.abb15f33.css.map",
+    "main.aebc40cb.js.map": "/Radiant-Riches-LLC-s-Assignment/static/js/main.aebc40cb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.abb15f33.css",
+    "static/js/main.aebc40cb.js"
+  ]
+}
