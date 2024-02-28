@@ -3,7 +3,7 @@ import "../App.scss"
 import 'bootstrap/dist/css/bootstrap.min.css';
 import React, { useState } from 'react';
 
-function Nav4(){
+function MiddleNav3(){
    const [isNavCollapsed, setIsNavCollapsed] = useState(true);
 
   const handleNavCollapse = () => {
@@ -52,4 +52,4 @@ function Nav4(){
     </nav>
     );
 }
-export default Nav4;
+export default MiddleNav3;

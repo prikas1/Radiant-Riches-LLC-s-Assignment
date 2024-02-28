@@ -3,6 +3,13 @@
   padding: 0px 184px;
   background-color: #fbfcfd;
   padding-bottom: 10px;
+   
+  .heading, h5, h4{
+    &:hover{
+       text-decoration: 3px solid #1B88F4 underline;
+    }
+     
+  } 
 
   .navbar {
     padding: 0px !important;
@@ -79,6 +86,7 @@
   .heading-div {
     width: 298px;
     color: #5c6874;
+
   }
 }
 
@@ -87,8 +95,9 @@
     input {
       width: 200px;
       margin-top: 10px;
-      background: none;
+      background: white;
       height: 40px;
+   
       &:hover {
         border: 3px solid #1b88f4;
       }
@@ -96,7 +105,8 @@
 
     button {
       color: white;
-      margin: 10px 0px;
+      margin: 11px 0px;
+      border-radius: 0px 10px 10px 0px;
     }
   }
 }

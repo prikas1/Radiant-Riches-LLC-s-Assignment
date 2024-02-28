@@ -2,9 +2,9 @@
 import React from 'react';
 import "./middle.scss";
 import 'bootstrap/dist/css/bootstrap.min.css';
-import Nav2 from "./middle-nav1";
-import Nav3 from "./middle-nav2";
-import Nav4 from "./middle-nav3";
+import MIddleNav1 from "./middle-nav1";
+import MiddleNav2 from "./middle-nav2";
+import MiddleNav3 from "./middle-nav3";
 import Card from "./card";
 import Card4 from "./card4";
 import SmCard1 from "./small-card";
@@ -15,9 +15,9 @@ function Middle() {
       <p className='heading'>Best Website builders in the US</p>
       <hr />
       <div className="nav-contenert">
-        <Nav2 />
-        <Nav3 />
-        <Nav4 />
+        <MIddleNav1 />
+        <MiddleNav2 />
+        <MiddleNav3 />
       </div>
       <Card />
       <Card />

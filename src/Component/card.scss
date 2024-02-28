@@ -7,6 +7,11 @@
     width: 100%;
     border: none;
 
+    &:hover{
+       border: 3px solid #1B88F4;
+    }
+    
+
     a{
      font: Inter;
      display: inline-block !important;
@@ -45,6 +50,15 @@
     line-height: 24px;
     font-weight: 700;
      color: #4B5665;
+}
+
+.div2{
+    a{
+        &:hover{
+            text-decoration: 2px solid 
+#1B88F4 underline;
+        }
+    }
 }
 
 }

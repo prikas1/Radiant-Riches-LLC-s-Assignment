@@ -5,7 +5,7 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 function SmCard1(){
   return(
     <div class="col-sm ">
-    <div className="sm-card1 d-flex justify-content-center ">
+    <div className="sm-card1 card d-flex justify-content-center ">
     <div>
     <div className="d-flex justify-content-center ">
      <img className="desktop " src={'/Radiant-Riches-LLC-s-Assignment/desktop.png'} />
@@ -22,7 +22,7 @@ function SmCard1(){
       <p className="p-link">(20% Off)</p>
      </div>
      <div className="d-flex justify-content-center ">
-     <button type="button" class="btn btn-primary">View</button>
+     <button type="button" class="btn btn-primary">View Deal</button>
      </div>
     </div>
     </div>
