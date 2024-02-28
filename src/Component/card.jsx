@@ -1,5 +1,3 @@
-// import "../App.scss"
-// import "./middle.scss"
 import "./card.scss"
 import 'bootstrap/dist/css/bootstrap.min.css';
 
